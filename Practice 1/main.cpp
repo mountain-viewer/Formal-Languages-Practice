@@ -2,7 +2,7 @@
 
 #include "RegularExpressionParser.h"
 
-// Algorithm is explained more deeply in README.md
+// Algorithm is explained more deeply in explanation.txt
 
 void run() {
 
